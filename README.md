@@ -2,9 +2,9 @@
 
 ## Description
 
-**My List** is an iOS application that let's you create all kinds of lists and customize it with icons and set reminders to notify you of your most important tasks.
+**My List** is a to-do list manager for busy individuals letting users streamline their personal tasks into organized lists. Get notified every time with notifications so you'll always be on top of your tasks and be more effective.
 
-This app let's you organize items into lists and then check off these items once you've completed them. You can also set a reminder that will make the iPhone pop up an alert on the specified due date taking advantage of local notifications from the User Notifications framework.
+This app let's you organize items into lists and then check off these items once you've completed them. You can also set a reminder that will make the iPhone send an alert on the specified due date taking advantage of local notifications from the *User Notifications* framework.
 
 My intent with this app was to showcase my skills building a dynamic application with features and standard iOS controls.
 
