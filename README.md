@@ -57,4 +57,4 @@ This project is built with `Swift 5.1` and `Xcode 13`
 
 I'm an iOS Developer | UX Designer. You can connect with me on [Twitter](https://twitter.com/richiexflores)
 
-Follow my thought process on [Medium](blog.richie.flores.com).
+Follow my thought process on [Medium](https://blog.richieflores.com).
