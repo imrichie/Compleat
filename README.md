@@ -1,4 +1,4 @@
-# Compleat - A todo-list iOS app
+# Compleat
 
 ## Description
 
