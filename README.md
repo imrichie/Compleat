@@ -1,21 +1,47 @@
-# My List
+# Compleat - A todo-list iOS app
 
 ## Description
 
-**My List** is a to-do list manager for busy individuals letting users streamline their personal tasks into organized lists. Get notified every time with notifications so you'll always be on top of your tasks and be more effective.
+`Compleat` is a simple and intuitive todo list app designed to simplify your tasks.
 
-This app let's you organize items into lists and then check off these items once you've completed them. You can also set a reminder that will make the iPhone send an alert on the specified due date taking advantage of local notifications from the *User Notifications* framework.
+With Compleat, you can easily create and manage your daily tasks, set reminders, and prioritize your work. Compleat is built using the latest technologies and frameworks, including UserNotifications, UIKit, and persisting data with a plist file.
 
-My intent with this app was to showcase my skills building a dynamic application with features and standard iOS controls.
+## Technologies
 
-## Tools and Frameworks
+Compleat is built using the following technologies:
 
-* UIKit
-* User Notifications
-* UINavigationController
-* UITableViewController
-* Data Persistance - serializing user data to Plist files
-* UserDefaults to remember last open list
+* `UIKit` for designing the app's interface and user experience.
+* `User Notifications` for scheduling and sending notifications to the user when a task is due.
+* `Data Persistance` serializing user data to Plist files
+* `UserDefaults` to remember last open list
+
+## Features
+
+* Create and manage your daily tasks
+* Set reminders and notifications for your tasks
+* Prioritize your work with custom categories and tags
+* Mark tasks as complete and track your progress
+* Easy-to-use interface with smooth animations and transitions
+
+## Challenges
+
+* Designing an intuitive user interface for creating, editing, and completing tasks
+* Implementing data persistence to store tasks across multiple app launches
+* Handling edge cases such as incomplete or missing task data
+* Implementing reminders and notifications for upcoming tasks and deadlines
+* Enabling sorting and filtering of tasks by priority, due date, or other criteria
+
+## Skills Gained
+
+Developing this todo list app helped solidify a variety of iOS skills, including:
+
+* `User Interface Design` Creating an intuitive and visually appealing interface that allows users to interact with tasks and task lists effectively.
+* `Data Persistence` Using a variety of techniques to store task data locally on the device, such as using Core Data, a plist file, or other data storage technologies.
+* `Notifications and Reminders` Implementing local notifications and reminders to help users keep track of upcoming tasks and deadlines.
+* `Handling User Input` Capturing user input accurately and reliably and handling any errors or edge cases that may arise.
+* `App Navigation` Creating an intuitive and user-friendly navigation structure that allows users to move easily between task lists and individual tasks.
+  
+These skills are valuable for any iOS developer and can be applied to a wide range of projects beyond just a todo list app.
 
 ## Screenshots
 
@@ -25,8 +51,10 @@ Home | Add Item | Choose Icon | Edit Item
 
 ## Swift and Xcode Versions
 
-This project is built with Swift 5.1 and Xcode 13
+This project is built with `Swift 5.1` and `Xcode 13`
 
 ## About Me
 
-I'm an iOS Developer. You can connect with me on [Twitter](https://twitter.com/captainflores) @captainflores
+I'm an iOS Developer | UX Designer. You can connect with me on [Twitter](https://twitter.com/richiexflores)
+
+Follow my thought process on [Medium](blog.richie.flores.com).
